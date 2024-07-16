@@ -55,7 +55,7 @@ Join the InstaGlimpse community today and start sharing your world, one moment a
   <img src = "https://github.com/user-attachments/assets/75f85805-7fb1-42d9-a6d0-300a73155ac6" height="500em">
 
   
-  ### search page
+  ### Profile page
 
   <img src = "https://github.com/user-attachments/assets/ab423fce-b405-4862-8853-54df0e7e3c6c" height="500em">
 
