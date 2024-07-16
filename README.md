@@ -1,6 +1,6 @@
-App Name
-InstaGlimpse
 
+Instagram 
+       By Prince buha
 
 
  Description :- 
