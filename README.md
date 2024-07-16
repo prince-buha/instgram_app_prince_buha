@@ -37,7 +37,7 @@ IGTV: Watch and create long-form videos.
 Join the InstaGlimpse community today and start sharing your world, one moment at a time! 🌍✨
 
 
-================================== Screen Shots ====================================
+============================== Screen Shots ================================
 
 
 ### Homepage 
